@@ -1,2 +1,0 @@
-// Base Class
-class Inheritance
